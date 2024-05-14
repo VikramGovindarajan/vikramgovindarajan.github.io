@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My professional website"
+title: "PROFESSIONAL SUMMARY"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,5 @@ redirect_from:
 ---
 
 
-PROFESSIONAL SUMMARY
-====================
 -     Mechanical engineer specialized in modeling nuclear reactors.
 -     Interested in scientific computation using coding; Ability in engineering mathematics to solve industrial problems.
