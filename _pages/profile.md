@@ -15,10 +15,12 @@ EMPLOYMENT HISTORY
 EDUCATION
 =========
 *Aug 2014 - Dec 2016*
+
 **Master of Technology (Mechanical Engineering: Specialization in Fast Breeder Reactor and Recycle Science & Technology)**
   -  Homi Bhabha National Institute (HBNI), Mumbai - Kalpakkam, Tamil Nadu
 
 *Jul 2010 - Apr 2014*
+
 **Bachelor of Engineering (Mechanical Engineering)**
   -  College of Engineering, Guindy (CEG) - Chennai, Tamil Nadu
 
@@ -26,4 +28,5 @@ EDUCATION
 TEACHING EXPERIENCE
 ===================
 *(lecturer in BARC Training Schools (equivalent to master’s degree)*
+
 *Subjects: Reactor Engineering, Advanced Heat and Mass Transfer*

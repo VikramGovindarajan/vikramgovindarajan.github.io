@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Vikram Govindarajan"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Nuclear Engineer"
   location         : "Kalpakkam"
   employer         : "IGCAR, DAE, Govt. of India"
