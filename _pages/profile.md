@@ -33,6 +33,13 @@ TEACHING EXPERIENCE
 
 Membership
 ==========
-Life member, Indian Nuclear Society (INS), India
+ - Life member, Indian Nuclear Society (INS), India
+ - Life member, Indian Society for Heat and Mass Transfer (ISHMT), India
+ 
+Students
+========
+## Summer/Winter Interns
 
-Life member, Indian Society for Heat and Mass Transfer (ISHMT), India
+## Prospective Students
+
+
