@@ -30,3 +30,9 @@ TEACHING EXPERIENCE
 *(lecturer in BARC Training Schools (equivalent to master’s degree)*
 
 *Subjects: Reactor Engineering, Advanced Heat and Mass Transfer*
+
+Membership
+==========
+Life member, Indian Nuclear Society (INS), India
+
+Life member, Indian Society for Heat and Mass Transfer (ISHMT), India
