@@ -31,10 +31,11 @@ TEACHING EXPERIENCE
 
 *Subjects: Reactor Engineering, Advanced Heat and Mass Transfer*
 
-Membership
-==========
+Professional Membership
+=======================
  - Life member, Indian Nuclear Society (INS), India
  - Life member, Indian Society for Heat and Mass Transfer (ISHMT), India
+ # - INYAS
  
 Students
 ========
@@ -42,4 +43,8 @@ Students
 
 ## Prospective Students
 
+Miscellaneous
+=============
+Invited Lectures/Talks
+----------------------
 

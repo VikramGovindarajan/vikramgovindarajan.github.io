@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
--     Mechanical engineer specialized in modeling nuclear reactors.
+-     Mechanical engineer specialized in modeling and simulation of nuclear reactors.
 -     Interested in scientific computation using coding; Ability in engineering mathematics to solve industrial problems.
