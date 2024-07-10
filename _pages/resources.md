@@ -8,7 +8,9 @@ redirect_from:
 
 ## Notes
 
-* Steel
+ - Steel - https://github.com/VikramGovindarajan/notes_materials.git
+ 
+ - Technical Writing - https://www.docslikecode.com/learn/
 
 ***
 **Footnotes**
