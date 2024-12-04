@@ -17,3 +17,6 @@ redirect_from:
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Resources Footnotes</a>.
 
+## Interesting Personalities
+
+ - Professor BAL RAJ SEHGAL - https://www.nae.edu/69277/Professor-Bal-Raj-Sehgal
