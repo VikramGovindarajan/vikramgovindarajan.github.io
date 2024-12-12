@@ -40,6 +40,7 @@ Professional Membership
 Students
 ========
 ## Summer/Winter Interns
+
 | Name          | College          | Program            | Duration           | Project Title                                             |
 |---------------|------------------|--------------------|--------------------|----------------------------------------------------------|
 | Abdul Hannan  | BITS-Hyderabad   | BE (Mechanical)    | Jul 2024 - Dec 2024 | Coupled System Thermal Hydraulics-CFD Simulation Approach for Hot Pool of an SFR |
