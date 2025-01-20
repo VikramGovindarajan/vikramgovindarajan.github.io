@@ -24,6 +24,20 @@ EDUCATION
 **Bachelor of Engineering (Mechanical Engineering)**
   -  College of Engineering, Guindy (CEG) - Chennai, Tamil Nadu
 
+**Other Certification Courses**
+
+| Timeline       | Course Name                                                      | Course Provider |
+|----------------|------------------------------------------------------------------|-----------------|
+| Jan-Mar 2016   | Introduction to Research                                        | NPTEL          |
+| Jul-Sep 2016   | Two phase flow and heat transfer                                 | NPTEL          |
+| Feb-Mar 2018   | Traditional and Non-Traditional Optimization Tools               | NPTEL          |
+| Jul-Oct 2018   | Matrix Solver                                                   | NPTEL          |
+| Nov 2017       | QUEST Course on Natural Circulation Based Passive Systems for Advanced Reactors | IGCAR |
+| Jan-Mar 2019   | Radiative Heat Transfer                                          | NPTEL          |
+| Aug-Sep 2019   | Introduction to Parallel Programming in Open MP                  | NPTEL          |
+| Jul-Oct 2019   | Continuum Mechanics and Transport Phenomena                      | NPTEL          |
+| Jan-Mar 2023   | Programming, Data Structures And Algorithms Using Python         | NPTEL          |
+
 
 TEACHING EXPERIENCE
 ===================
