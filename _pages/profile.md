@@ -49,7 +49,8 @@ Professional Membership
 =======================
  - Life member, Indian Nuclear Society (INS), India
  - Life member, Indian Society for Heat and Mass Transfer (ISHMT), India
- # - INYAS
+ 
+[//]: # (INYAS)
  
 Students
 ========
