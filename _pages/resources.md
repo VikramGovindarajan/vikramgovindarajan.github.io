@@ -12,6 +12,16 @@ redirect_from:
  
  - Technical Writing - https://www.docslikecode.com/learn/
 
+## AI Tools
+
+ - ChatGPT - General Purpose
+ 
+ - BHASINI - for language translation
+ 
+ - Slidespilot - for making ppt
+ 
+ - AskYourPDF - To summarize pdf
+
 ***
 **Footnotes**
 
