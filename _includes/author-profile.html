@@ -55,6 +55,11 @@
 	  <i class="ai ai-researcherid ai-fw icon-pad-right"></i>ResearcherID
 	</a></li>
       {% endif %}
+      {% if author.scopusid %}
+        <li><a href="http://www.scopus.com/authid/detail.url?authorId={{ author.scopusid }}">
+          <i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus
+        </a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
