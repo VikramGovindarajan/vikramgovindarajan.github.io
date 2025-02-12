@@ -50,6 +50,11 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.researcherid %}
+	<li><a href="https://www.webofscience.com/wos/author/record/{{ author.researcherid }}">
+	  <i class="ai ai-researcherid ai-fw icon-pad-right"></i>ResearcherID
+	</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
