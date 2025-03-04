@@ -30,3 +30,10 @@ The footnotes in the page will be returned following this line, return to the se
 ## Interesting Personalities
 
  - Professor BAL RAJ SEHGAL - https://www.nae.edu/69277/Professor-Bal-Raj-Sehgal
+
+
+## Ubuntu Commands
+
+ - Merge pdfs: gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=merged.pdf "file1.pdf" "file2.pdf"
+ 
+ - Download youtube videos: 
