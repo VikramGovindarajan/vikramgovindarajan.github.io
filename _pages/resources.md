@@ -36,4 +36,4 @@ The footnotes in the page will be returned following this line, return to the se
 
  - Merge pdfs: gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=merged.pdf "file1.pdf" "file2.pdf"
  
- - Download youtube videos: 
+ - Download youtube videos: yt-dlp -a urls.txt --download-archive archive.txt
