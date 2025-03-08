@@ -16,12 +16,12 @@ redirect_from:
 Field of Specialization:
 ========================
 
-** Nuclear Reactor Thermal Hydraulics **
+**Nuclear Reactor Thermal Hydraulics**
 
  - Fast Reactor Plant Dynamics
  - Fast Reactor Safety Analysis
  
-** Advanced Heat and Mass Transfer **
+**Advanced Heat and Mass Transfer**
  
  - Boiling and Condensation (Two-Phase Flow and Heat Transfer)
  - Sodium Boiling Simulation
@@ -29,11 +29,11 @@ Field of Specialization:
 Skills and Expertise:
 =====================
 
-** Software **
+**Software**
 
  - Flownex
 
-** High Performance Computing **
+**High Performance Computing**
 
  - Programming Languages - Fortran, MATLAB, Python, C++
  - 
