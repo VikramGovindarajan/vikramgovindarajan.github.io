@@ -37,3 +37,6 @@ The footnotes in the page will be returned following this line, return to the se
  - Merge pdfs: gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=merged.pdf "file1.pdf" "file2.pdf"
  
  - Download youtube videos: yt-dlp -a urls.txt --download-archive archive.txt
+ 
+ - To combine image files (png) in a folder into a pdf - img2pdf $(ls *.png | sort) -o output.pdf
+
