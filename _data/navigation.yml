@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Profile"
-    url: /profile/
+  - title: "Education"
+    url: /education/
 
   - title: "Experience"
     url: /experience/
@@ -12,8 +12,8 @@ main:
   # - title: "Talks"
     # url: /talks/    
 
-  # - title: "Teaching"
-    # url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
     # url: /portfolio/

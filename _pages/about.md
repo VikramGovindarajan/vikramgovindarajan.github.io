@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
  - Nuclear engineer specialized in modeling and simulation of fast reactors.
  - Interested in scientific computation using coding.
  - Ability in engineering mathematics to solve industrial problems.
@@ -37,5 +36,4 @@ Skills and Expertise:
 
  - Programming Languages - Fortran, MATLAB, Python, C++
  - 
- 
  
