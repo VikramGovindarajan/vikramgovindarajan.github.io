@@ -1,28 +1,28 @@
-name: Build Resume PDF
+name: Build Resume
 
 on:
   push:
     paths:
-      - "resume/main.tex"   # Run only when main.tex is modified
-  workflow_dispatch:        # Allows manual triggering
+      - "resume/main.tex"
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Install LaTeX
-      run: sudo apt update && sudo apt install -y texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+      - name: Install LaTeX
+        run: sudo apt update && sudo apt install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended
 
-    - name: Compile PDF
-      run: |
-        cd resume
-        pdflatex main.tex
+      - name: Compile PDF
+        run: |
+          cd resume
+          pdflatex main.tex
 
-    - name: Upload PDF to GitHub Pages
+      - name: Upload PDF to GitHub Pages
         uses: actions/upload-artifact@v4
         with:
           name: resume-pdf
