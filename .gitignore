@@ -14,3 +14,4 @@ package-lock.json
 vendor/bundle
 .bundle/
 
+resume/main.pdf

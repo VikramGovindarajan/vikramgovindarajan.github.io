@@ -13,8 +13,6 @@ redirect_from:
 
 [📄 Download Resume (PDF)](/resume/main.pdf)
 
-<a href="/resume/main.pdf" download style="display:inline-block; padding:10px 20px; background:#007BFF; color:white; text-decoration:none; border-radius:5px;">📄 Download Resume</a>
-
 Field of Specialization:
 ========================
 
