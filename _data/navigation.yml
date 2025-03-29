@@ -3,6 +3,9 @@ main:
   - title: "Profile"
     url: /profile/
 
+  - title: "Experience"
+    url: /experience/
+
   # - title: "Publications"
     # url: /publications/
 
