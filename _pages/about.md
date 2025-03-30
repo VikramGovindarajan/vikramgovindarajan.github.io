@@ -11,7 +11,7 @@ redirect_from:
  - Interested in scientific computation using coding.
  - Ability in engineering mathematics to solve industrial problems.
 
-[📄 Download Resume (PDF)](/resume/main.pdf)
+[📄 Download Resume (PDF)](/resume/main.pdf){:download}
 
 Field of Specialization:
 ========================
