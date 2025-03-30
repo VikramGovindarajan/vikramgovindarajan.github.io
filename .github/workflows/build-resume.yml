@@ -1,4 +1,4 @@
-name: Build and Deploy Resume
+name: Build Resume
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows manual triggering
 
 jobs:
-  build-resume:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,15 +17,13 @@ jobs:
       - name: Install LaTeX
         run: sudo apt update && sudo apt install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended
 
-      - name: Compile main.tex to PDF
+      - name: Compile PDF
         run: |
           cd resume
           pdflatex main.tex
 
-      - name: Deploy PDF to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload PDF to GitHub Pages
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          keep_files: true  # Prevents deletion of other site files
-          destination_dir: resume  # Ensures it appears at /resume/main.pdf
+          name: resume-pdf
+          path: resume/main.pdf
