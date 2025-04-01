@@ -1,8 +1,10 @@
 ---
 permalink: /education/
-title: "Education"
+title: "Education and Continued Learning"
 author_profile: true
 ---
+
+**Degress**
 
 *Aug 2014 - Dec 2016*
 
@@ -13,6 +15,10 @@ author_profile: true
 
 **Bachelor of Engineering (Mechanical Engineering)**
   -  College of Engineering, Guindy (CEG) - Chennai, Tamil Nadu
+
+**Workshops**
+
+ - INS Workshops 
 
 **Other Certification Courses**
 

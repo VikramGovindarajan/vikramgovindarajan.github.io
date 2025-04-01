@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+[📄 Download Resume (PDF)](/resume/main.pdf){:download}
+
  - Nuclear engineer specialized in modeling and simulation of fast reactors.
  - Interested in scientific computation using coding.
  - Ability in engineering mathematics to solve industrial problems.
-
-[📄 Download Resume (PDF)](/resume/main.pdf){:download}
 
 Field of Specialization:
 ========================
