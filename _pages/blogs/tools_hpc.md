@@ -1,6 +1,6 @@
 ---
 title: "Tools for Scientific Computing"
-permalink: /blogs/tools-for-scientific-computing/
+permalink: /blogs/tools_hpc/
 ---
 
 # Tools for Scientific Computing  

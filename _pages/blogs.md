@@ -4,4 +4,4 @@ title: "Blog Posts"
 author_profile: true
 ---
 
- - ["Tools for Scientific Computing"](/blogs/tools_hpc/)
+ - [Tools for Scientific Computing](/blogs/tools_hpc/)
