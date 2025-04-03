@@ -9,32 +9,40 @@ redirect_from:
 
 [📄 Download Resume (PDF)](/resume/main.pdf){:download}
 
- - Nuclear engineer specialized in modeling and simulation of fast reactors.
- - Interested in scientific computation using coding.
- - Ability in engineering mathematics to solve industrial problems.
+- Nuclear engineer specialized in modeling and simulation of fast reactors.  
+- Interested in scientific computation using coding.  
+- Ability in engineering mathematics to solve industrial problems.  
 
-Field of Specialization:
-========================
+## Field of Specialization  
 
-**Nuclear Reactor Thermal Hydraulics**
+### Nuclear Reactor Thermal Hydraulics
+- Fast Reactor Plant Dynamics  
+- Fast Reactor Safety Analysis  
 
- - Fast Reactor Plant Dynamics
- - Fast Reactor Safety Analysis
- 
-**Advanced Heat and Mass Transfer**
- 
- - Boiling and Condensation (Two-Phase Flow and Heat Transfer)
- - Sodium Boiling Simulation
+### Advanced Heat and Mass Transfer
+- Boiling and Condensation (Two-Phase Flow and Heat Transfer)  
+- Sodium Boiling Simulation  
 
-Skills and Expertise:
-=====================
+## Skills and Expertise  
 
-**Software**
+### Computational Fluid Dynamics (CFD)
+- Numerical Methods for Fluid Flow  
 
- - Flownex
+### Software
+- Flownex
 
-**High Performance Computing**
+### Programming
+- Fortran, MATLAB, Python, C++  
 
- - Programming Languages - Fortran, MATLAB, Python, C++
- - 
- 
+### Developer Tools
+- Version Control - Git
+- Documentation - sphinx, Doxygen
+
+### High-Performance Computing (HPC)
+- Parallel Computing  
+- Optimization Techniques  
+
+## Languages  
+- **English** – Fluent  
+- **Tamil** – Native Speaker  
+- **Hindi** – Basic  
