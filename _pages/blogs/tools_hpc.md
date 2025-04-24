@@ -38,6 +38,10 @@ This page describes the open-source tools to develop and maintain codes.
 - For python: (pylint, mypy, bandit)
 - For C++: Clang-tidy, Cppcheck, Flawfinder
 
+## Parsers
+- For grammar-based parsing of expressions, custom domain-specific languages - flex and bison
+- For XML parsing, pugixml for C++, lxml for python
+
 ## Profiler
 - gprof, valgrind
 
