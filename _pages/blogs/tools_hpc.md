@@ -42,6 +42,9 @@ This page describes the open-source tools to develop and maintain codes.
 - For grammar-based parsing of expressions, custom domain-specific languages - flex and bison
 - For XML parsing, pugixml for C++, lxml for python
 
+## UML Diagrams Generators
+- Umbrello (GUI), PlantUML (text-based)
+
 ## Profiler
 - gprof, valgrind
 
