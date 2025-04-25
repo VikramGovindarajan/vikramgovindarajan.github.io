@@ -57,6 +57,10 @@ This page describes the open-source tools to develop and maintain codes.
 ## Parallelization  
 - OpenMP 
 
-## Programming Language  
-### Object-Oriented Programming  
+## Programming Language (Object-Oriented Programming)
 - Python  
+
+## Machine Learning Packages
+- (Tensorflow, Keras, PyTorch, Caffe (C++))
+- Google Collab (Free cloud service)
+
