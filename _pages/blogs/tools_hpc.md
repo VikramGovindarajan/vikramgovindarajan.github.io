@@ -3,9 +3,7 @@ title: "Tools for Scientific Computing"
 permalink: /blogs/tools_hpc/
 ---
 
-# Tools for Scientific Computing  
-
-This page describes the tools to develop and maintain codes.  
+This page describes the open-source tools to develop and maintain codes.  
 
 > *Disclaimer: The codes listed and the suggestions are purely based on my personal experience and views.*  
 
@@ -22,17 +20,47 @@ This page describes the tools to develop and maintain codes.
 - gfortran, gcc, etc.  
 
 ## Documentation  
-- Doxygen  
+- Doxygen, Natural docs, sphinx
 
-## Profiler and Debugger  
-- gprof, valgrind  
+## Testing
+- ctest, catch2 for C++
+- pytest for python
+
+## Code Coverage
+- gconv, lcov for C++
+- coverage.py for python
+
+## Mutation Testing
+- (Mull, Mart, Cosmic Ray) for C++
+- (Cosmic Ray, mutmut) for python
+
+## Static Code Analysis
+- For python: (pylint, mypy, bandit)
+- For C++: Clang-tidy, Cppcheck, Flawfinder
+
+## Parsers
+- For grammar-based parsing of expressions, custom domain-specific languages - flex and bison
+- For XML parsing, pugixml for C++, lxml for python
+
+## UML Diagrams Generators
+- Umbrello (GUI), PlantUML (text-based)
+
+## Profiler
+- gprof, valgrind
+
+## Debugger  
+- GDB
 
 ## Bug Tracker  
 - MantisBT  
 
 ## Parallelization  
-- OpenMP  
+- OpenMP 
 
-## Programming Language  
-### Object-Oriented Programming  
+## Programming Language (Object-Oriented Programming)
 - Python  
+
+## Machine Learning Packages
+- (Tensorflow, Keras, PyTorch, Caffe (C++))
+- Google Collab (Free cloud service)
+
